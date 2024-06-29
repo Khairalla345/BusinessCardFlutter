@@ -29,29 +29,29 @@ Clone the repository:
     git clone https://github.com/yourusername/business_card_flutter.git
 
 git clone https://github.com/yourusername/business_card_flutter.git
-Navigate to the project directory:
+# Navigate to the project directory:
 
-sh
-Copy code
-cd business_card_flutter
-Install the dependencies:
+    cd business_card_flutter
 
-sh
-Copy code
-flutter pub get
-Run the application:
+# Install the dependencies:
 
-sh
-Copy code
-flutter run
-Built With
-Flutter - The framework used
-Contributing
-Feel free to fork this project, open issues, or submit pull requests. Contributions are welcome!
+    flutter pub get
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-Inspiration: Flutter documentation
-Icons: Font Awesome
+# Run the application:
+
+    flutter run
+
+                Built With
+        Flutter - The framework used
+                Contributing
+        Feel free to fork this project, open issues, or submit pull requests. Contributions are welcome!
+
+# License
+
+    This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Acknowledgments
+
+    Inspiration: Flutter documentation
+    Icons: Font Awesome
