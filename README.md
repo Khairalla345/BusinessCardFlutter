@@ -6,7 +6,9 @@
 # Screenshot
 
 
-<img src="https://github.com/Khairalla345/BusinessCardFlutter/assets/140925047/4f14c173-330f-403d-933a-6217c8d9780b" alt="Business Card Screenshot" width="300"/>
+<div align="center">
+  <img src="https://github.com/Khairalla345/BusinessCardFlutter/assets/140925047/4f14c173-330f-403d-933a-6217c8d9780b" alt="Business Card Screenshot" width="300"/>
+</div>
 
 
 # Features
