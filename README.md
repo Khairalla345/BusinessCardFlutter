@@ -3,7 +3,10 @@
 
     A simple Flutter application that creates a digital business card. This app is designed to showcase personal contact information in a sleek and professional manner.
 
-<img src="https://github.com/Khairalla345/BusinessCardFlutter/assets/140925047/4f14c173-330f-403d-933a-6217c8d9780b" alt="Business Card Screenshot" width="300"/>
+# Screenshot
+
+
+    <img src="https://github.com/Khairalla345/BusinessCardFlutter/assets/140925047/4f14c173-330f-403d-933a-6217c8d9780b" alt="Business Card Screenshot" width="300"/>
 
 
 # Features
