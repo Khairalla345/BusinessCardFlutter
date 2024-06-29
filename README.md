@@ -17,14 +17,17 @@
     Getting Started
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
-Flutter SDK: Install Flutter
-A code editor like VS Code or Android Studio
-Installing
-Clone the repository:
+# Prerequisites
 
-sh
-Copy code
+    Flutter SDK: Install Flutter
+
+    A code editor like VS Code or Android Studio
+# Installing
+
+Clone the repository:
+    
+    git clone https://github.com/yourusername/business_card_flutter.git
+
 git clone https://github.com/yourusername/business_card_flutter.git
 Navigate to the project directory:
 
